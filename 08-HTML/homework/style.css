@@ -1,0 +1,31 @@
+h1{
+   	    color: mediumturquoise;
+       }
+
+       img{
+   	    width: 400px;
+       }
+       #bodyId{
+
+              background-color: seashell;           
+       }
+       .divClass{
+           width: 500px;
+           margin: auto;
+       }
+
+       #thirdDiv{
+
+   	    height: 600px;
+   	    width: 500px;
+   	    background-color: moccasin;
+   	    padding: 50px;
+   	    border: 20px solid snow;
+           margin: auto;
+       }
+       #spanid{
+       	font-size: 18px;
+       	margin: 50px;
+       }
+       
+       
